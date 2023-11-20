@@ -2,48 +2,69 @@
 Selamat datang di folder Semester 1!  
 Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
 
-## 1. Algoritma & Pemrograman 1
-Algoritma & Pemrograman 1A
-- [Materi](https://drive.google.com/drive/folders/14qEd0q_zlAGU5_dmiMhHBtE8lLtQqElz?usp=drive_link)
+<details>
+  <summary><strong>Algoritma & Pemrograman 1</strong></summary>
+  
+  - Algoritma & Pemrograman 1A
+    - [Materi](https://drive.google.com/drive/folders/14qEd0q_zlAGU5_dmiMhHBtE8lLtQqElz?usp=drive_link)
+    
+  - Algoritma & Pemrograman 1B
+    - [Materi](https://drive.google.com/drive/folders/1ZM7qQcVpPffVKbJpILWuyrK18caVPXd6?usp=drive_link)
+    
+  - Algoritma & Pemrograman 1C
+    - [Materi](https://drive.google.com/drive/folders/17cbUCTMApoqGrn-z1IaoP1x1bdEoMksB?usp=drive_link)
+</details>
 
-Algoritma & Pemrograman 1B
-- [Materi](https://drive.google.com/drive/folders/1ZM7qQcVpPffVKbJpILWuyrK18caVPXd6?usp=drive_link)
+<details>
+  <summary><strong>Fisika & Kimia Dasar</strong></summary>
+  
+  - Fisika & Kimia Dasar 1A
+    - [Materi](https://drive.google.com/drive/folders/1r0Qzah7i2B8adn6yu2pxV3I1TXR-UEwZ?usp=drive_link)
+    
+  - Fisika & Kimia Dasar 1B
+    - [Materi](https://drive.google.com/drive/folders/1S9ju4LzQZy7cOVBkoJj8uarrF1_Gj0Up?usp=drive_link)
+</details>
 
-Algoritma & Pemrograman 1C
-- [Materi](https://drive.google.com/drive/folders/17cbUCTMApoqGrn-z1IaoP1x1bdEoMksB?usp=drive_link)
+<details>
+  <summary><strong>Ilmu Sosial Dasar</strong></summary>
+  
+  - [Materi](https://drive.google.com/drive/folders/1IQAHyjaNh9jtd4WYBpnBdoM8G_1jsk5l?usp=drive_link)
+</details>
 
-## 2. Fisika & Kimia Dasar
-Fisika & Kimia Dasar 1A
-- [Materi](https://drive.google.com/drive/folders/1r0Qzah7i2B8adn6yu2pxV3I1TXR-UEwZ?usp=drive_link)
+<details>
+  <summary><strong>Matematika Dasar 1</strong></summary>
+  
+  - Matematika Dasar 1A
+    - [Materi](https://drive.google.com/drive/folders/1U7JqAQAwlbIluy1TB3TtyLcABSc4JYz3?usp=drive_link)
+    
+  - Matematika Dasar 2B
+    - [Materi](https://drive.google.com/drive/folders/1DVTHmmQteqAfWZr0bTB1fK2lRWXqjusD?usp=drive_link)
+</details>
 
-Fisika & Kimia Dasar 1B
-- [Materi](https://drive.google.com/drive/folders/1S9ju4LzQZy7cOVBkoJj8uarrF1_Gj0Up?usp=drive_link)
+<details>
+  <summary><strong>Pendidikan Pancasila</strong></summary>
+  
+  - [Materi](https://drive.google.com/drive/folders/1lTh1PAJ4h8rDWKvSkVjDJNNd4DrzmE6J?usp=drive_link)
+</details>
 
-## 3. Ilmu Sosial Dasar
-- [Materi](https://drive.google.com/drive/folders/1IQAHyjaNh9jtd4WYBpnBdoM8G_1jsk5l?usp=drive_link)
+<details>
+  <summary><strong>Pengantar Bisnis dan Ekonomi Digital</strong></summary>
+  
+  - [Materi](https://drive.google.com/drive/folders/1EiABtqH03DdPUhPSbxqzFvgLGJAsrOSx?usp=drive_link)
+</details>
 
-## 4. Matematika Dasar 1
-Matematika Dasar 1A
-- [Materi](https://drive.google.com/drive/folders/1U7JqAQAwlbIluy1TB3TtyLcABSc4JYz3?usp=drive_link)
-
-Matematika Dasar 2B
-- [Materi](https://drive.google.com/drive/folders/1DVTHmmQteqAfWZr0bTB1fK2lRWXqjusD?usp=drive_link)
-
-## 5. Pendidikan Pancasila
-- [Materi](https://drive.google.com/drive/folders/1lTh1PAJ4h8rDWKvSkVjDJNNd4DrzmE6J?usp=drive_link)
-
-## 6. Pengantar Bisnis dan Ekonomi Digital
-- [Materi](https://drive.google.com/drive/folders/1EiABtqH03DdPUhPSbxqzFvgLGJAsrOSx?usp=drive_link)
-
-## 7. Pengantar Teknologi Informasi 1
-Pengantar Teknologi Informasi 1A
-- [Materi](https://drive.google.com/drive/folders/1rz5Hzt6bHgLUasdvZzoDhMT0Rs5R4wB-?usp=drive_link)
-
-Pengantar Teknologi Informasi 1B
-- [Materi](https://drive.google.com/drive/folders/1VGxbE3HVcZV112N9qgEWeayy_SZbxHJB?usp=drive_link)
-
-Pengantar Teknologi Informasi 1C
-- [Materi](https://drive.google.com/drive/folders/1aHpJKxCR4Jj5vKa6RRgC468vBtPs6Bzh?usp=drive_link)
+<details>
+  <summary><strong>Pengantar Teknologi Informasi 1</strong></summary>
+  
+  - Pengantar Teknologi Informasi 1A
+    - [Materi](https://drive.google.com/drive/folders/1rz5Hzt6bHgLUasdvZzoDhMT0Rs5R4wB-?usp=drive_link)
+    
+  - Pengantar Teknologi Informasi 1B
+    - [Materi](https://drive.google.com/drive/folders/1VGxbE3HVcZV112N9qgEWeayy_SZbxHJB?usp=drive_link)
+    
+  - Pengantar Teknologi Informasi 1C
+    - [Materi](https://drive.google.com/drive/folders/1aHpJKxCR4Jj5vKa6RRgC468vBtPs6Bzh?usp=drive_link)
+</details>
 
 ---
 ## 1KA18
