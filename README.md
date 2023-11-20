@@ -2,8 +2,8 @@
 Repository ini merupakan kumpulan beberapa materi, tugas, dan lainnya selama saya kuliah di Universitas Gunadarma jurusan Sistem Informasi.
 
 <details>
-  <summary>Semester 1</summary>
-  
+  <summary><strong>Semester 1</strong></summary>
+
   - [Algoritma & Pemrograman 1](Semester%201/README.md)
   - [Fisika & Kimia Dasar 1](Semester%201/README.md)
   - [Ilmu Sosial Dasar](Semester%201/README.md)
@@ -15,7 +15,7 @@ Repository ini merupakan kumpulan beberapa materi, tugas, dan lainnya selama say
 </details>
 
 <details>
-  <summary>Semester 2</summary>
+  <summary><strong>Semester 2</strong></summary>
 
   - [Algoritma & Pemrograman 2](Semester%202/README.md)
   - [Bahasa Inggris 2](Semester%202/README.md)
@@ -29,7 +29,7 @@ Repository ini merupakan kumpulan beberapa materi, tugas, dan lainnya selama say
 </details>
 
 <details>
-  <summary>Semester 3</summary>
+  <summary><strong>Semester 3</strong></summary>
   
   - [Inovasi Sistem Info. & Tekn.Inf. Modern](Semester%203/README.md)
   - [Manajemen & Sistem Inf. Manajemen 1](Semester%203/README.md)
