@@ -5,65 +5,64 @@ Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
 <details>
   <summary><strong>Inovasi Sistem Info. & Tekn.Inf. Modern</strong></summary>
 
-  - **Dosen Pengampu:** [Riza Adrianti Supono, SKom, MMSI](http://adrianti.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Riza Adrianti Supono, SKom, MMSI](http://adrianti.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1-NJ8UvzafzFTHtMRG9lH1FNduchqJFMW?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Manajemen & Sistem Inf. Manajemen 1</strong></summary>
 
-  - **Dosen Pengampu:** [Trini Saptariani, SKom., MM](http://trini.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Trini Saptariani, SKom., MM](http://trini.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1ynxmjuIAwA7s4y4UahCjZct0W8fRf9a1?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Sistem Basis Data 1</strong></summary>
 
-  - **Dosen Pengampu:** [Dr. Yuli Karyanti](http://yuli.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Dr. Yuli Karyanti](http://yuli.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1-mnSP8d99tM3LR0xff0tNvdkxd1s_ycK?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Matematika Lanjut 1</strong></summary>
 
-  - **Dosen Pengampu:** [Siti Maesaroh](http://siti_maesaroh.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Siti Maesaroh](http://siti_maesaroh.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1zxqgZPAXkrWyLxh76acEvDoUsaKWuPi1?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Matematika Sistem Informasi 1</strong></summary>
 
-  - **Dosen Pengampu:** Irwan Susanto
+  - Dosen Pengampu: Irwan Susanto
   - [Materi](https://drive.google.com/drive/folders/1-9fX2qzsyjzU-SiEj8aWBhWH3Q7Mn0kA?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Teknik Pemrograman Terstruktur</strong></summary>
 
-  - **Dosen Pengampu:** [Emellika Rahmayana, S.Kom., MMSI](http://emellika_r.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Emellika Rahmayana, S.Kom., MMSI](http://emellika_r.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/101cm3la0PvYalxWRpFjjQwr53KZDyGd9?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Pengantar Organisasi & Arsitektur Komp.</strong></summary>
 
-- **Dosen Pengampu:** Maria Sri Wulandari
+- Dosen Pengampu: Maria Sri Wulandari
 - [Materi](https://drive.google.com/drive/folders/107EYMtrbEoptnhM44eQwtl3JNM3ylfah?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Struktur dan Organisasi Data</strong></summary>
 
-  - **Dosen Pengampu:** [Kosdiana](http://kosdiana.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Kosdiana](http://kosdiana.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1-yOT0Bv1vvPoyUAwARyBOkndIk6jnRun?usp=drive_link)
 </details>
 
 ---
 ## 2KA17
-**Wali Kelas**
-- [KOSDIANA](http://kosdiana.staff.gunadarma.ac.id/)
+Wali Kelas: [Kosdiana](http://kosdiana.staff.gunadarma.ac.id/)
 
-**Daftar Mahasiswa 2KA17:**
+Daftar Mahasiswa 2KA17:
 | No | NPM       | Nama                                |
 |:--:|-----------|-------------------------------------|
 | 1  | 10122026  | ABDULLAH RASYID                     |

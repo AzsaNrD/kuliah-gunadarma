@@ -6,29 +6,29 @@ Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
   <summary><strong>Algoritma & Pemrograman 2</strong></summary>
   
   - Algoritma & Pemrograman 2A
-    - **Dosen Pengampu:** [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/1HlYTXt_DdcxvpfGP6MkECHxwoX1OntfQ?usp=drive_link)
     
   - Algoritma & Pemrograman 2B
-    - **Dosen Pengampu:** [Ety Sutanty](http://ety_s.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Ety Sutanty](http://ety_s.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/1HlYTXt_DdcxvpfGP6MkECHxwoX1OntfQ?usp=drive_link)
     
   - Algoritma & Pemrograman 2C
-    - **Dosen Pengampu:** [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/1bDHRok2um_4DzJJ_vpRuaeLNQOFLIsOr?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Bahasa Inggris 2</strong></summary>
 
-  - **Dosen Pengampu:** [Irsya Indiwara](http://irsya_indiwara.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Irsya Indiwara](http://irsya_indiwara.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1MrHug_vaO1xv5zaG9EzrILZzO0jchPZy?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Ilmu Budaya Dasar</strong></summary>
 
-  - **Dosen Pengampu:** [Dimas Radhitio Atmohadikusumo](http://atmohadikusumo.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Dimas Radhitio Atmohadikusumo](http://atmohadikusumo.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1bMNjZM4PHK1pd-TlghqGV6zaIy17MA4W?usp=drive_link)
 </details>
 
@@ -36,15 +36,15 @@ Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
   <summary><strong>Konsep Sistem Informasi</strong></summary>
 
   - Konsep Sistem Informasi A
-    - **Dosen Pengampu:** [Esti Setyaningsih, SKOM, MMSI](http://esti.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Esti Setyaningsih, SKOM, MMSI](http://esti.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/1ni0wZ3PHLRWoIBsVD1zMiuFwsl909v7G?usp=drive_link)
 
   - Konsep Sistem Informasi B
-    - **Dosen Pengampu:** [Dr. Pipit Dewi Arnesia, SKom., MMSI.](http://pdarnesia.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Dr. Pipit Dewi Arnesia, SKom., MMSI.](http://pdarnesia.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/12I0rO2ih4F-2YToPNTLBOZYlUzn1XqFx?usp=drive_link)
 
   - Konsep Sistem Informasi C
-    - **Dosen Pengampu:** [Winarsih](http://winarsih.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Winarsih](http://winarsih.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/1eP7A60DZrw2JRL8deeW3d1_jJJCVVy9a?usp=drive_link)
 </details>
 
@@ -52,41 +52,40 @@ Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
   <summary><strong>Matematika Dasar 2</strong></summary>
 
   - Matematika Dasar 2A
-    - **Dosen Pengampu:** [Juniarso, ST., MT](http://juniarso.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Juniarso, ST., MT](http://juniarso.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/1-7FD0H-6IfzQ0Ueqrgtx9FNCkqOLs6b2?usp=drive_link)
 
   - Matematika Dasar 2B
-    - **Dosen Pengampu:** [Erfiana Wahyuningsih, ST., MT](http://erfiana_wahyuningsih.staff.gunadarma.ac.id/)
+    - Dosen Pengampu: [Erfiana Wahyuningsih, ST., MT](http://erfiana_wahyuningsih.staff.gunadarma.ac.id/)
     - [Materi](https://drive.google.com/drive/folders/1vQvJH6roAWba2x32oAhzAj56-src1vtm?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Pendidikan Agama Islam</strong></summary>
 
-  - **Dosen Pengampu:** [Novianto, MA.Hum](http://novianto.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Novianto, MA.Hum](http://novianto.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1m4kHEasseAxiU2pCs90VIyVA0r7HurZc?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Pendidikan Kewarganegaraan</strong></summary>
 
-  - **Dosen Pengampu:** [Muhamad Farid Mahmud, SE, MM](http://mfarid.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Muhamad Farid Mahmud, SE, MM](http://mfarid.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1m2VWBkYMnyW6RCbNW17F4l_KbS5bXtxl?usp=drive_link)
 </details>
 
 <details>
   <summary><strong>Teori Organisasi Umum</strong></summary>
 
-  - **Dosen Pengampu:** [Angga Putri Ekanova](http://angga_putri.staff.gunadarma.ac.id/)
+  - Dosen Pengampu: [Angga Putri Ekanova](http://angga_putri.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1ZSxO5GoWRabuWMksDvG_RpqqSdod3yVb?usp=drive_link)
 </details>
 
 ---
 ## 1KA18
-**Wali Kelas**
-- [Ety Sutanty](http://ety_s.staff.gunadarma.ac.id/)
+Wali Kelas: [Ety Sutanty](http://ety_s.staff.gunadarma.ac.id/)
 
-**Daftar Mahasiswa 1KA18:**
+Daftar Mahasiswa 1KA18:
 | No  | Nama                                   | NPM       |
 |:---:|----------------------------------------|-----------|
 |  1  | AFFAN FARERA BAGASKARA                 | 10122061  |
