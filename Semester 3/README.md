@@ -64,7 +64,7 @@ Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
 ## 2KA17
 Wali Kelas: [Kosdiana](http://kosdiana.staff.gunadarma.ac.id/)
 
-Daftar Mahasiswa 2KA17:
+Daftar Mahasiswa:
 | No | NPM       | Nama                                |
 |:--:|-----------|-------------------------------------|
 | 1  | 10122026  | ABDULLAH RASYID                     |

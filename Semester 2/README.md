@@ -85,7 +85,7 @@ Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
 ## 1KA18
 Wali Kelas: [Ety Sutanty](http://ety_s.staff.gunadarma.ac.id/)
 
-Daftar Mahasiswa 1KA18:
+Daftar Mahasiswa:
 | No  | Nama                                   | NPM       |
 |:---:|----------------------------------------|-----------|
 |  1  | AFFAN FARERA BAGASKARA                 | 10122061  |
