@@ -8,6 +8,8 @@ Repository ini merupakan kumpulan beberapa materi, tugas, dan lainnya selama say
 [![Praktikum Ilab](https://img.shields.io/badge/praktikum_ilab-0766AD?style=for-the-badge)](https://praktikum.gunadarma.ac.id/)
 [![DGX FIKTI](https://img.shields.io/badge/DGX_FIKTI-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://hypercomputation-hub.gunadarma.ac.id/fikti)
 
+<br/>
+
 <details>
   <summary><strong>Semester 1</strong></summary>
 
