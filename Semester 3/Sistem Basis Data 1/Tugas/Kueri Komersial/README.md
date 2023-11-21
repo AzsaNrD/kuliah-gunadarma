@@ -1,6 +1,10 @@
 # Kueri Komersial
 Pada tugas ini, saya mempraktikkan nya menggunakan MySQL. Tugas ini diserahkan dalam bentuk tulisan di kertas, saya mencoba menerapkannya secara langsung untuk meningkatkan pemahaman saya tentang kueri dan penggunaan database.
 
+**Tools**  
+
+[![Tools](https://skillicons.dev/icons?i=vscode,mysql)](https://skillicons.dev)
+
 - Tabel MHS
 
 | NPM      | NAMA_MHS    | KOTA    |
