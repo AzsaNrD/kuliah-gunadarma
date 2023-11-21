@@ -2,37 +2,61 @@
 Selamat datang di folder Semester 3!  
 Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
 
-## 1. Inovasi Sistem Info. & Tekn.Inf. Modern
-- **Dosen Pengampu:** [Riza Adrianti Supono, SKom, MMSI](http://adrianti.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1-NJ8UvzafzFTHtMRG9lH1FNduchqJFMW?usp=drive_link)
+<details>
+  <summary><strong>Inovasi Sistem Info. & Tekn.Inf. Modern</strong></summary>
 
-## 2. Manajemen & Sistem Inf. Manajemen 1
-- **Dosen Pengampu:** [Trini Saptariani, SKom., MM](http://trini.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1ynxmjuIAwA7s4y4UahCjZct0W8fRf9a1?usp=drive_link)
+  - **Dosen Pengampu:** [Riza Adrianti Supono, SKom, MMSI](http://adrianti.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1-NJ8UvzafzFTHtMRG9lH1FNduchqJFMW?usp=drive_link)
+</details>
 
-## 3. Sistem Basis Data 1
-- **Dosen Pengampu:** [Dr. Yuli Karyanti](http://yuli.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1-mnSP8d99tM3LR0xff0tNvdkxd1s_ycK?usp=drive_link)
+<details>
+  <summary><strong>Manajemen & Sistem Inf. Manajemen 1</strong></summary>
 
-## 4. Matematika Lanjut 1
-- **Dosen Pengampu:** [Siti Maesaroh](http://siti_maesaroh.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1zxqgZPAXkrWyLxh76acEvDoUsaKWuPi1?usp=drive_link)
+  - **Dosen Pengampu:** [Trini Saptariani, SKom., MM](http://trini.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1ynxmjuIAwA7s4y4UahCjZct0W8fRf9a1?usp=drive_link)
+</details>
 
-## 5. Matematika Sistem Informasi 1
-- **Dosen Pengampu:** Irwan Susanto
-- [Materi](https://drive.google.com/drive/folders/1-9fX2qzsyjzU-SiEj8aWBhWH3Q7Mn0kA?usp=drive_link)
+<details>
+  <summary><strong>Sistem Basis Data 1</strong></summary>
 
-## 6. Teknik Pemrograman Terstruktur
-- **Dosen Pengampu:** [Emellika Rahmayana, S.Kom., MMSI](http://emellika_r.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/101cm3la0PvYalxWRpFjjQwr53KZDyGd9?usp=drive_link)
+  - **Dosen Pengampu:** [Dr. Yuli Karyanti](http://yuli.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1-mnSP8d99tM3LR0xff0tNvdkxd1s_ycK?usp=drive_link)
+</details>
 
-## 7. Pengantar Organisasi & Arsitektur Komp.
+<details>
+  <summary><strong>Matematika Lanjut 1</strong></summary>
+
+  - **Dosen Pengampu:** [Siti Maesaroh](http://siti_maesaroh.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1zxqgZPAXkrWyLxh76acEvDoUsaKWuPi1?usp=drive_link)
+</details>
+
+<details>
+  <summary><strong>Matematika Sistem Informasi 1</strong></summary>
+
+  - **Dosen Pengampu:** Irwan Susanto
+  - [Materi](https://drive.google.com/drive/folders/1-9fX2qzsyjzU-SiEj8aWBhWH3Q7Mn0kA?usp=drive_link)
+</details>
+
+<details>
+  <summary><strong>Teknik Pemrograman Terstruktur</strong></summary>
+
+  - **Dosen Pengampu:** [Emellika Rahmayana, S.Kom., MMSI](http://emellika_r.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/101cm3la0PvYalxWRpFjjQwr53KZDyGd9?usp=drive_link)
+</details>
+
+<details>
+  <summary><strong>Pengantar Organisasi & Arsitektur Komp.</strong></summary>
+
 - **Dosen Pengampu:** Maria Sri Wulandari
 - [Materi](https://drive.google.com/drive/folders/107EYMtrbEoptnhM44eQwtl3JNM3ylfah?usp=drive_link)
+</details>
 
-## 8. Struktur dan Organisasi Data
-- **Dosen Pengampu:** [Kosdiana](http://kosdiana.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1-yOT0Bv1vvPoyUAwARyBOkndIk6jnRun?usp=drive_link)
+<details>
+  <summary><strong>Struktur dan Organisasi Data</strong></summary>
+
+  - **Dosen Pengampu:** [Kosdiana](http://kosdiana.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1-yOT0Bv1vvPoyUAwARyBOkndIk6jnRun?usp=drive_link)
+</details>
 
 ---
 ## 2KA17

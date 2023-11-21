@@ -2,60 +2,84 @@
 Selamat datang di folder Semester 2!  
 Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
 
-## 1. Algoritma & Pemrograman 2
-Algoritma & Pemrograman 2A
-- **Dosen Pengampu:** [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1HlYTXt_DdcxvpfGP6MkECHxwoX1OntfQ?usp=drive_link)
+<details>
+  <summary><strong>Algoritma & Pemrograman 2</strong></summary>
+  
+  - Algoritma & Pemrograman 2A
+    - **Dosen Pengampu:** [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/1HlYTXt_DdcxvpfGP6MkECHxwoX1OntfQ?usp=drive_link)
+    
+  - Algoritma & Pemrograman 2B
+    - **Dosen Pengampu:** [Ety Sutanty](http://ety_s.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/1HlYTXt_DdcxvpfGP6MkECHxwoX1OntfQ?usp=drive_link)
+    
+  - Algoritma & Pemrograman 2C
+    - **Dosen Pengampu:** [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/1bDHRok2um_4DzJJ_vpRuaeLNQOFLIsOr?usp=drive_link)
+</details>
 
-Algoritma & Pemrograman 2B
-- **Dosen Pengampu:** [Ety Sutanty](http://ety_s.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1HlYTXt_DdcxvpfGP6MkECHxwoX1OntfQ?usp=drive_link)
+<details>
+  <summary><strong>Bahasa Inggris 2</strong></summary>
 
-Algoritma & Pemrograman 2C
-- **Dosen Pengampu:** [Rizki Ariyani, SKOM., MMSI.,](http://rizkiariyani.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1bDHRok2um_4DzJJ_vpRuaeLNQOFLIsOr?usp=drive_link)
+  - **Dosen Pengampu:** [Irsya Indiwara](http://irsya_indiwara.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1MrHug_vaO1xv5zaG9EzrILZzO0jchPZy?usp=drive_link)
+</details>
 
-## 2. Bahasa Inggris 2
-- **Dosen Pengampu:** [Irsya Indiwara](http://irsya_indiwara.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1MrHug_vaO1xv5zaG9EzrILZzO0jchPZy?usp=drive_link)
+<details>
+  <summary><strong>Ilmu Budaya Dasar</strong></summary>
 
-## 3. Ilmu Budaya Dasar
-- **Dosen Pengampu:** [Dimas Radhitio Atmohadikusumo](http://atmohadikusumo.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1bMNjZM4PHK1pd-TlghqGV6zaIy17MA4W?usp=drive_link)
+  - **Dosen Pengampu:** [Dimas Radhitio Atmohadikusumo](http://atmohadikusumo.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1bMNjZM4PHK1pd-TlghqGV6zaIy17MA4W?usp=drive_link)
+</details>
 
-## 4. Konsep Sistem Informasi
-Konsep Sistem Informasi A
-- **Dosen Pengampu:** [Esti Setyaningsih, SKOM, MMSI](http://esti.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1ni0wZ3PHLRWoIBsVD1zMiuFwsl909v7G?usp=drive_link)
+<details>
+  <summary><strong>Konsep Sistem Informasi</strong></summary>
 
-Konsep Sistem Informasi B
-- **Dosen Pengampu:** [Dr. Pipit Dewi Arnesia, SKom., MMSI.](http://pdarnesia.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/12I0rO2ih4F-2YToPNTLBOZYlUzn1XqFx?usp=drive_link)
+  - Konsep Sistem Informasi A
+    - **Dosen Pengampu:** [Esti Setyaningsih, SKOM, MMSI](http://esti.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/1ni0wZ3PHLRWoIBsVD1zMiuFwsl909v7G?usp=drive_link)
 
-Konsep Sistem Informasi C
-- **Dosen Pengampu:** [Winarsih](http://winarsih.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1eP7A60DZrw2JRL8deeW3d1_jJJCVVy9a?usp=drive_link)
+  - Konsep Sistem Informasi B
+    - **Dosen Pengampu:** [Dr. Pipit Dewi Arnesia, SKom., MMSI.](http://pdarnesia.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/12I0rO2ih4F-2YToPNTLBOZYlUzn1XqFx?usp=drive_link)
 
-## 5. Matematika Dasar 2
-Matematika Dasar 2A
-- **Dosen Pengampu:** [Juniarso, ST., MT](http://juniarso.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1-7FD0H-6IfzQ0Ueqrgtx9FNCkqOLs6b2?usp=drive_link)
+  - Konsep Sistem Informasi C
+    - **Dosen Pengampu:** [Winarsih](http://winarsih.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/1eP7A60DZrw2JRL8deeW3d1_jJJCVVy9a?usp=drive_link)
+</details>
 
-Matematika Dasar 2B
-- **Dosen Pengampu:** [Erfiana Wahyuningsih, ST., MT](http://erfiana_wahyuningsih.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1vQvJH6roAWba2x32oAhzAj56-src1vtm?usp=drive_link)
+<details>
+  <summary><strong>Matematika Dasar 2</strong></summary>
 
-## 6. Pendidikan Agama Islam
-- **Dosen Pengampu:** [Novianto, MA.Hum](http://novianto.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1m4kHEasseAxiU2pCs90VIyVA0r7HurZc?usp=drive_link)
+  - Matematika Dasar 2A
+    - **Dosen Pengampu:** [Juniarso, ST., MT](http://juniarso.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/1-7FD0H-6IfzQ0Ueqrgtx9FNCkqOLs6b2?usp=drive_link)
 
-## 7. Pendidikan Kewarganegaraan
-- **Dosen Pengampu:** [Muhamad Farid Mahmud, SE, MM](http://mfarid.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1m2VWBkYMnyW6RCbNW17F4l_KbS5bXtxl?usp=drive_link)
+  - Matematika Dasar 2B
+    - **Dosen Pengampu:** [Erfiana Wahyuningsih, ST., MT](http://erfiana_wahyuningsih.staff.gunadarma.ac.id/)
+    - [Materi](https://drive.google.com/drive/folders/1vQvJH6roAWba2x32oAhzAj56-src1vtm?usp=drive_link)
+</details>
 
-## 8. Teori Organisasi Umum
-- **Dosen Pengampu:** [Angga Putri Ekanova](http://angga_putri.staff.gunadarma.ac.id/)
-- [Materi](https://drive.google.com/drive/folders/1ZSxO5GoWRabuWMksDvG_RpqqSdod3yVb?usp=drive_link)
+<details>
+  <summary><strong>Pendidikan Agama Islam</strong></summary>
+
+  - **Dosen Pengampu:** [Novianto, MA.Hum](http://novianto.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1m4kHEasseAxiU2pCs90VIyVA0r7HurZc?usp=drive_link)
+</details>
+
+<details>
+  <summary><strong>Pendidikan Kewarganegaraan</strong></summary>
+
+  - **Dosen Pengampu:** [Muhamad Farid Mahmud, SE, MM](http://mfarid.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1m2VWBkYMnyW6RCbNW17F4l_KbS5bXtxl?usp=drive_link)
+</details>
+
+<details>
+  <summary><strong>Teori Organisasi Umum</strong></summary>
+
+  - **Dosen Pengampu:** [Angga Putri Ekanova](http://angga_putri.staff.gunadarma.ac.id/)
+  - [Materi](https://drive.google.com/drive/folders/1ZSxO5GoWRabuWMksDvG_RpqqSdod3yVb?usp=drive_link)
+</details>
 
 ---
 ## 1KA18
