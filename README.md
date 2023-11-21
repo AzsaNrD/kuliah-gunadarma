@@ -1,6 +1,13 @@
 # Kuliah Gunadarma 
 Repository ini merupakan kumpulan beberapa materi, tugas, dan lainnya selama saya kuliah di Universitas Gunadarma jurusan Sistem Informasi.
 
+### Link Universitas Gunadarma
+[![BAAK](https://img.shields.io/badge/BAAK-C683D7?style=for-the-badge)](https://baak.gunadarma.ac.id/)
+[![Virtual Class](https://img.shields.io/badge/virtual_class-EC8F5E?style=for-the-badge)](https://v-class.gunadarma.ac.id/) 
+[![Student Site](https://img.shields.io/badge/student_site-776B5D?style=for-the-badge)](https://studentsite.gunadarma.ac.id/)
+[![Praktikum Ilab](https://img.shields.io/badge/praktikum_ilab-0766AD?style=for-the-badge)](https://praktikum.gunadarma.ac.id/)
+[![DGX FIKTI](https://img.shields.io/badge/DGX_FIKTI-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://hypercomputation-hub.gunadarma.ac.id/fikti)
+
 <details>
   <summary><strong>Semester 1</strong></summary>
 
