@@ -3,37 +3,39 @@ Pada tugas ini, saya mempraktikkan nya menggunakan MySQL. Tugas ini diserahkan d
 
 - Tabel MHS
 
-| NPM      | NAMA_MHS       | KOTA     |
-| -------- | -------------- | -------- |
-| 10109832 | Nurhayati      | Jakarta  |
-| 10109126 | Astuti         | Jakarta  |
-| 32105500 | Budi           | Depok    |
-| 41200525 | Prananigrum    | Bogor    |
-| 50409486 | Pipit          | Bekasi   |
-| 21109353 | Quraish        | Bogor    |
-| 10109001 | Fintri         | Depok    |
-| 21108002 | Julizar        | Jakarta  |
+| NPM      | NAMA_MHS    | KOTA    |
+| -------- | ----------- | ------- |
+| 10109832 | Nurhayati   | Jakarta |
+| 10109126 | Astuti      | Jakarta |
+| 32105500 | Budi        | Depok   |
+| 41200525 | Prananigrum | Bogor   |
+| 50409486 | Pipit       | Bekasi  |
+| 21109353 | Quraish     | Bogor   |
+| 10109001 | Fintri      | Depok   |
+| 21108002 | Julizar     | Jakarta |
 
 - Tabel NILAI
 
-| NPM      | KDMK  | MID   | FINAL |
-| -------- | ----- | ----- | ----- |
-| 10109832 | KK021 | 60    | 75    |
-| 10109126 | KD132 | 70    | 90    |
-| 32105500 | KK021 | 55    | 40    |
-| 41200525 | KU122 | 90    | 80    |
-| 21109353 | KU122 | 75    | 75    |
-| 50409486 | KD132 | 80    | 0     |
+| NPM      | KDMK  | MID | FINAL |
+| -------- | ----- | --- | ----- |
+| 10109832 | KK021 | 60  | 75    |
+| 10109126 | KD132 | 70  | 90    |
+| 32105500 | KK021 | 55  | 40    |
+| 41200525 | KU122 | 90  | 80    |
+| 21109353 | KU122 | 75  | 75    |
+| 50409486 | KD132 | 80  | 0     |
 
 - Tabel MATKUL
 
-| KD_MK | NAMA_MK                        | SKS |
-| ----- | ------------------------------ | --- |
-| KK021 | Sistem Basis Data              | 2   |
-| KD132 | Sistem Informasi Manajemen     | 3   |
-| KU122 | Pancasila                      | 2   |
+| KD_MK | NAMA_MK                    | SKS |
+| ----- | -------------------------- | --- |
+| KK021 | Sistem Basis Data          | 2   |
+| KD132 | Sistem Informasi Manajemen | 3   |
+| KU122 | Pancasila                  | 2   |
 
-**1. Tampilkan nilai final tertinggi**
+<br>
+
+#### 1. Tampilkan nilai final tertinggi
 ```sql
 SELECT
   MAX(FINAL) AS 'nilai final tertinggi'
@@ -44,7 +46,9 @@ _output:_
 
 ![output 1](assets/images/output_1.png)
 
-### 2. Tampilkan nilai final terendah
+<br>
+
+#### 2. Tampilkan nilai final terendah
 ```sql
 SELECT
   MIN(FINAL) AS 'nilai final terendah'
@@ -55,7 +59,9 @@ _output:_
 
 ![output 2](assets/images/output_2.png)
 
-### 3. Tampilkan rerata dari nilai MID dan FINAL
+<br>
+
+#### 3. Tampilkan rerata dari nilai MID dan FINAL
 ```sql
 SELECT
   AVG(MID) AS 'rerata nilai MID',
@@ -67,7 +73,9 @@ _output:_
 
 ![output 2](assets/images/output_3.png)
 
-### 4. Menampilkan nama yang mengandung hurus a kecil
+<br>
+
+#### 4. Menampilkan nama yang mengandung hurus a kecil
 ```sql
 SELECT
   *
@@ -80,7 +88,9 @@ _output:_
 
 ![output 2](assets/images/output_4.png)
 
-### 5. Tampilkan npm , kd_mk,mid untuk nilai mid antara 70 sd 90
+<br>
+
+#### 5. Tampilkan npm , kd_mk,mid untuk nilai mid antara 70 sd 90
 ```sql
 SELECT
   NPM,
@@ -95,7 +105,9 @@ _output:_
 
 ![output 2](assets/images/output_5.png)
 
-### 6. Tampilkan npm, nm_mhs, kd_mk ,final untuk semua mahasiswa
+<br>
+
+#### 6. Tampilkan npm, nm_mhs, kd_mk ,final untuk semua mahasiswa
 ```sql
 SELECT
   MH.NPM,
@@ -110,7 +122,9 @@ _output:_
 
 ![output 2](assets/images/output_6.png)
 
-### 7. Tampilkan npm, kd_mk ,nama_mk, mid, final  untuk semua mahasiswa
+<br>
+
+#### 7. Tampilkan npm, kd_mk ,nama_mk, mid, final  untuk semua mahasiswa
 ```sql
 SELECT
   MH.NPM,
@@ -127,7 +141,9 @@ _output:_
 
 ![output 2](assets/images/output_7.png)
 
-### 8. Tampilkan npm, nama mhs, kd_mk ,nama_mk, mid, final  untuk semua mahasiswa
+<br>
+
+#### 8. Tampilkan npm, nama mhs, kd_mk ,nama_mk, mid, final  untuk semua mahasiswa
 ```sql
 SELECT
   MH.NPM,
@@ -145,7 +161,9 @@ _output:_
 
 ![output 2](assets/images/output_8.png)
 
-### 9. Tampilkan nm_mhs, nama_mk,  mid, final untuk semua mahasiswa yang  nilai mid>60  dan final>60
+<br>
+
+#### 9. Tampilkan nm_mhs, nama_mk,  mid, final untuk semua mahasiswa yang  nilai mid>60  dan final>60
 ```sql
 SELECT
   MH.NAMA_MHS,
@@ -164,7 +182,9 @@ _output:_
 
 ![output 2](assets/images/output_9.png)
 
-### 10. Tambahkan kolom FAK dengan type Varchar dan Panjang 20 pada tabel Mahasiswa
+<br>
+
+#### 10. Tambahkan kolom FAK dengan type Varchar dan Panjang 20 pada tabel Mahasiswa
 ```sql
 ALTER TABLE MHS
 ADD COLUMN FAK VARCHAR(20);
@@ -173,7 +193,9 @@ _output:_
 
 ![output 2](assets/images/output_10.png)
 
-### 11. Ubah nilai dari kolom FAK dari ketentuan, ambil 1 digit ke 3 dari NPM
+<br>
+
+#### 11. Ubah nilai dari kolom FAK dari ketentuan, ambil 1 digit ke 3 dari NPM
 Jika:  
 nilainya 1 maka FAK = FIKTI  
 nilainya 2 maka FAK = FE  
@@ -201,7 +223,9 @@ _output:_
 
 ![output 2](assets/images/output_11.png)
 
-### 12. Hitung dan tampilkan jumlah mahasiswa per fakultas.
+<br>
+
+#### 12. Hitung dan tampilkan jumlah mahasiswa per fakultas.
 ```sql
 SELECT
   FAK,
@@ -215,7 +239,9 @@ _output:_
 
 ![output 2](assets/images/output_12.png)
 
-### 13. Tampilkan npm, nama, kdmk, mid, final untuk semua mahasiswa, diurutkan berdasarkan nama mahasiswa dari besar ke kecil.
+<br>
+
+#### 13. Tampilkan npm, nama, kdmk, mid, final untuk semua mahasiswa, diurutkan berdasarkan nama mahasiswa dari besar ke kecil.
 ```sql
 SELECT
   MH.NPM,
@@ -233,7 +259,9 @@ _output:_
 
 ![output 2](assets/images/output_13.png)
 
-### 14. Tampilkan jumlah kdmk, nama matakuliah untuk semua matakuliah yang diambil oleh mahasiswa
+<br>
+
+#### 14. Tampilkan jumlah kdmk, nama matakuliah untuk semua matakuliah yang diambil oleh mahasiswa
 ```sql
 SELECT
   COUNT(MK.KD_MK) AS 'Jumlah kdmk',
@@ -249,5 +277,7 @@ GROUP BY
 _output:_
 
 ![output 2](assets/images/output_14.png)
+
+<br>
 
 source code di [sini](source_code.sql)
