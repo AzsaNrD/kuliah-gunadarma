@@ -1,17 +1,25 @@
--- Active: 1700029485149@@127.0.0.1@3306@kelas_kelompok
-CREATE DATABASE KELAS_kelompok
+--1--
+CREATE DATABASE KELAS_kelompok;
 
+USE KELAS_kelompok;
+
+--2--
+--2a--
 CREATE TABLE MHS
 (NPM char(8), NAMA varchar(40)not null, KELAS char(5) not null,
   TEMPAT_L varchar(30), TGL_L date, ALAMAT varchar(30), KOTA varchar(25));
 
+--2b--
 CREATE TABLE MATKUL
 (KDMK char(8), NAMAMK varchar(30), SKS smallint, JENIS char(1));
 
+--2c--
 CREATE TABLE NILAI
 (NPM char(8), KDMK char(8), UTS smallint, UAS smallint, RERATA smallint,
 GRADE char(1), SEM char(1));
 
+--3--
+--3a--
 INSERT INTO MHS VALUES
 ('10122044', 'ADHITYA WISNU WARDHANA', '2KA17', 'MALANG', '2004-09-01', 'JL. Pantura', 'DEPOK'),
 ('10122257', 'AZSA NURWAHYUDI', '2KA17', 'BOGOR', '2003-10-12', 'JL. Juanda', 'JAKARTA'),
@@ -19,6 +27,7 @@ INSERT INTO MHS VALUES
 ('10122977', 'MUHAMMAD RENGGALA AFRIANSYAH', '2KA17', 'JAKARTA', '2004-04-06', 'JL. Paso', 'BOGOR'),
 ('11122281', 'RIO PRANOTO HARJO', '2KA17', 'DEPOK', '2003-12-09', 'JL. Kahfi', 'JAKARTA');
 
+--3b--
 INSERT INTO MATKUL VALUES 
 ('AK011317', 'Sistem Basis Data 1', 3, 'W'),
 ('IT000203', 'Komputasi Big Data', 2, 'W'),
@@ -28,12 +37,13 @@ INSERT INTO MATKUL VALUES
 
  SELECT * FROM MATKUL
 
+--3c--
 INSERT INTO NILAI VALUES
-(10122044, 'AK011317', 80, 60, ' ', ' ', 3),
-(10122257, 'IT000203', 70, 55, ' ', ' ', 3),
-(10122727, 'IT011212', 45, 90, ' ', ' ', 3),
-(10122977, 'IT011214', 75, 70, ' ', ' ', 3),
-(11122281, 'IT000104', 80, 90, ' ', ' ', 3);
+('10122044', 'AK011317', 80, 60, ' ', ' ', 3),
+('10122257', 'IT000203', 70, 55, ' ', ' ', 3),
+('10122727', 'IT011212', 45, 90, ' ', ' ', 3),
+('10122977', 'IT011214', 75, 70, ' ', ' ', 3),
+('11122281', 'IT000104', 80, 90, ' ', ' ', 3);
 
 SELECT * FROM NILAI
 
