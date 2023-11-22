@@ -13,40 +13,40 @@ Repository ini merupakan kumpulan beberapa materi, tugas, dan lainnya selama say
 <details>
   <summary><strong>Semester 1</strong></summary>
 
-  - [Algoritma & Pemrograman 1](Semester%201)
-  - [Fisika & Kimia Dasar 1](Semester%201)
-  - [Ilmu Sosial Dasar](Semester%201)
-  - [Matematika Dasar 1](Semester%201)
-  - [Pendidikan Pancasila](Semester%201)
-  - [Pengantar Bisnis dan Ekonomi Digital](Semester%201)
-  - [Pengantar Teknologi Informasi 1](Semester%201)
+  - [Algoritma & Pemrograman 1](./semester-1/)
+  - [Fisika & Kimia Dasar 1](./semester-1/)
+  - [Ilmu Sosial Dasar](./semester-1/)
+  - [Matematika Dasar 1](./semester-1/)
+  - [Pendidikan Pancasila](./semester-1/)
+  - [Pengantar Bisnis dan Ekonomi Digital](./semester-1/)
+  - [Pengantar Teknologi Informasi 1](./semester-1/)
 
 </details>
 
 <details>
   <summary><strong>Semester 2</strong></summary>
 
-  - [Algoritma & Pemrograman 2](Semester%202)
-  - [Bahasa Inggris 2](Semester%202)
-  - [Ilmu Budaya Dasar](Semester%202)
-  - [Konsep Sistem Informasi](Semester%202)
-  - [Matematika Dasar 2](Semester%202)
-  - [Pendidikan Agama Islam](Semester%202)
-  - [Pendidikan Kewarganegaraan](Semester%202)
-  - [Teori Organisasi Umum](Semester%202)
+  - [Algoritma & Pemrograman 2](./semester-2/)
+  - [Bahasa Inggris 2](./semester-2/)
+  - [Ilmu Budaya Dasar](./semester-2/)
+  - [Konsep Sistem Informasi](./semester-2/)
+  - [Matematika Dasar 2](./semester-2/)
+  - [Pendidikan Agama Islam](./semester-2/)
+  - [Pendidikan Kewarganegaraan](./semester-2/)
+  - [Teori Organisasi Umum](./semester-2/)
 
 </details>
 
 <details>
   <summary><strong>Semester 3</strong></summary>
   
-  - [Inovasi Sistem Info. & Tekn.Inf. Modern](Semester%203)
-  - [Manajemen & Sistem Inf. Manajemen 1](Semester%203)
-  - [Sistem Basis Data 1](Semester%203)
-  - [Matematika Lanjut 1](Semester%203)
-  - [Matematika Sistem Informasi 1](Semester%203)
-  - [Teknik Pemrograman Terstruktur](Semester%203)
-  - [Pengantar Organisasi & Arsitektur Komp.](Semester%203)
-  - [Struktur dan Organisasi Data](Semester%203)
+  - [Inovasi Sistem Info. & Tekn.Inf. Modern](./semester-3/)
+  - [Manajemen & Sistem Inf. Manajemen 1](./semester-3/)
+  - [Sistem Basis Data 1](./semester-3/)
+  - [Matematika Lanjut 1](./semester-3/)
+  - [Matematika Sistem Informasi 1](./semester-3/)
+  - [Teknik Pemrograman Terstruktur](./semester-3/)
+  - [Pengantar Organisasi & Arsitektur Komp.](./semester-3/)
+  - [Struktur dan Organisasi Data](./semester-3/)
 
 </details>

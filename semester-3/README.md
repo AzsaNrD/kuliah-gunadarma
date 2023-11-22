@@ -22,7 +22,7 @@ Di sini, Anda akan menemukan materi dan tugas untuk mata kuliah berikut:
   - Dosen Pengampu: [Dr. Yuli Karyanti](http://yuli.staff.gunadarma.ac.id/)
   - [Materi](https://drive.google.com/drive/folders/1-mnSP8d99tM3LR0xff0tNvdkxd1s_ycK?usp=drive_link)
   - Tugas
-    - [Kueri Komersial](Sistem%20Basis%20Data%201/Tugas/Kueri%20Komersial/README.md)
+    - [Kueri Komersial](./sistem-basis-data-1/tugas/kueri-komersial/)
 </details>
 
 <details>

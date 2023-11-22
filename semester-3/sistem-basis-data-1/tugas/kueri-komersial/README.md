@@ -48,7 +48,7 @@ FROM
 ```
 _output:_  
 
-![output 1](assets/images/output_1.png)
+![output 1](./assets/images/output_1.png)
 
 <br>
 
@@ -61,7 +61,7 @@ FROM
 ```
 _output:_
 
-![output 2](assets/images/output_2.png)
+![output 2](./assets/images/output_2.png)
 
 <br>
 
@@ -75,7 +75,7 @@ FROM
 ```
 _output:_
 
-![output 2](assets/images/output_3.png)
+![output 2](./assets/images/output_3.png)
 
 <br>
 
@@ -90,7 +90,7 @@ WHERE
 ```
 _output:_
 
-![output 2](assets/images/output_4.png)
+![output 2](./assets/images/output_4.png)
 
 <br>
 
@@ -107,7 +107,7 @@ WHERE
 ```
 _output:_
 
-![output 2](assets/images/output_5.png)
+![output 2](./assets/images/output_5.png)
 
 <br>
 
@@ -124,7 +124,7 @@ FROM
 ```
 _output:_
 
-![output 2](assets/images/output_6.png)
+![output 2](./assets/images/output_6.png)
 
 <br>
 
@@ -143,7 +143,7 @@ FROM
 ```
 _output:_
 
-![output 2](assets/images/output_7.png)
+![output 2](./assets/images/output_7.png)
 
 <br>
 
@@ -163,7 +163,7 @@ FROM
 ```
 _output:_
 
-![output 2](assets/images/output_8.png)
+![output 2](./assets/images/output_8.png)
 
 <br>
 
@@ -184,7 +184,7 @@ WHERE
 ```
 _output:_
 
-![output 2](assets/images/output_9.png)
+![output 2](./assets/images/output_9.png)
 
 <br>
 
@@ -195,7 +195,7 @@ ADD COLUMN FAK VARCHAR(20);
 ```
 _output:_
 
-![output 2](assets/images/output_10.png)
+![output 2](./assets/images/output_10.png)
 
 <br>
 
@@ -225,7 +225,7 @@ SET
 ```
 _output:_
 
-![output 2](assets/images/output_11.png)
+![output 2](./assets/images/output_11.png)
 
 <br>
 
@@ -241,7 +241,7 @@ GROUP BY
 ```
 _output:_
 
-![output 2](assets/images/output_12.png)
+![output 2](./assets/images/output_12.png)
 
 <br>
 
@@ -261,7 +261,7 @@ ORDER BY
 ```
 _output:_
 
-![output 2](assets/images/output_13.png)
+![output 2](./assets/images/output_13.png)
 
 <br>
 
@@ -280,8 +280,8 @@ GROUP BY
 ```
 _output:_
 
-![output 2](assets/images/output_14.png)
+![output 2](./assets/images/output_14.png)
 
 <br>
 
-source code di [sini](source_code.sql)
+source code di [sini](./source_code.sql)
