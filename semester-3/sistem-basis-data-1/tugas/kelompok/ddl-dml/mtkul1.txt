@@ -1,0 +1,5 @@
+IT000203;Komputasi Big Data;2;W
+IT011217;Pengantar Org. & Ars. Kom.;3;W
+AK011209;Manajemen & SIM 1;2;U
+AK011127;Inovasi S. Info.&Tek.Inf.M.;1;W
+IT011328;Struktur dan Org. Data;3;U
