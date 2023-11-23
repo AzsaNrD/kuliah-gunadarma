@@ -1,5 +1,5 @@
 # Tugas Kelompok: DDL dan DML
-Latihan Penggunaan Sintaks SQL untuk kueri DDL dan DML
+[[PDF](https://drive.google.com/file/d/13EZba4xhaI9DPkuWF9RS1V5c0FOXjMKS/view?usp=sharing)] Latihan Penggunaan Sintaks SQL untuk kueri DDL dan DML
 
 **Anggota kelompok**  
 1. ADHITYA WISNU WARDHANA
