@@ -513,7 +513,7 @@ INNER JOIN MATKUL ON MATKUL.KDMK = NILAI.KDMK;
 ```
 ![soal-40](./assets/images/soal-40.png)
 Note:   
-Ubah path file "mtkul1.txt" sesuai dengan tempat penyimpanannya.
+Ubah path file "hasil_nil.txt" sesuai dengan tempat penyimpanannya.
 
 #### 41. Tampilkan hasil nmfile.txt dengan menggunakan notepad/wordpad 
 ![soal-41](./assets/images/soal-41.png)
