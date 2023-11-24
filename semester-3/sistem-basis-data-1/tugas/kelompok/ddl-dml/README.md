@@ -79,6 +79,7 @@ INSERT INTO MHS VALUES
 ('11122281', 'RIO PRANOTO HARJO', '2KA17', 'DEPOK', '2003-12-09', 'JL. Kahfi', 'JAKARTA');
 ```
 ![soal-3a](assets/images/soal-3a.png)
+![soal-3a_hasil](./assets/images/soal-3a_hasil.png)
 
 **b. MATKUL**
 ```sql
@@ -90,6 +91,7 @@ INSERT INTO MATKUL VALUES
 ('IT000104', 'Praktikum Kompitasi Big Data', 1, 'W');
 ```
 ![soal-3b](./assets/images/soal-3b.png)
+![soal-3b_hasil](./assets/images/soal-3b_hasil.png)
 
 **c. NILAI**
 ```sql
@@ -101,6 +103,7 @@ INSERT INTO NILAI VALUES
 ('11122281', 'IT000104', 80, 90, null, null, 3);
 ```
 ![soal-3c](./assets/images/soal-3c.png)
+![soal-3c_hasil](./assets/images/soal-3c_hasil.png)
 
 #### 4. Tampilkan nilai UAS tertinggi
 ```sql
@@ -123,7 +126,7 @@ FROM NILAI;
 
 ### 7. Tampilkan nilai rata-rata dari nilai UTS dan UAS
 ```sql
-SELECT MIN(UAS) AS UAS_Terendah, MAX(UAS) AS UAS_Tertinggi
+SELECT ROUND(AVG(UTS), 2) AS RataRata_UTS, ROUND(AVG(UAS), 2) AS RataRata_UAS
 FROM NILAI;
 ```
 ![soal-7](./assets/images/soal-7.png)

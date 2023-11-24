@@ -47,6 +47,9 @@ INSERT INTO MHS VALUES
 ('10122977', 'MUHAMMAD RENGGALA AFRIANSYAH', '2KA17', 'JAKARTA', '2004-04-06', 'JL. Paso', 'BOGOR'),
 ('11122281', 'RIO PRANOTO HARJO', '2KA17', 'DEPOK', '2003-12-09', 'JL. Kahfi', 'JAKARTA');
 
+-- tampilkan hasil
+SELECT * FROM MHS;
+
 --3b--
 INSERT INTO MATKUL VALUES 
 ('AK011317', 'Sistem Basis Data 1', 3, 'W'),
@@ -55,13 +58,21 @@ INSERT INTO MATKUL VALUES
 ('IT011214', 'Matematika Sistem informasi 1', 2, 'W'),
 ('IT000104', 'Praktikum Kompitasi Big Data', 1, 'W');
 
+-- tampilkan hasil
+SELECT * FROM MATKUL;
+
 --3c--
 INSERT INTO NILAI VALUES
 ('10122044', 'AK011317', 80, 60, null, null, 3),
 ('10122257', 'IT000203', 70, 55, null, null, 3),
 ('10122727', 'IT011212', 45, 90, null, null, 3),
 ('10122977', 'IT011214', 75, 70, null, null, 3),
-('11122281', 'IT000104', 80, 90, null, null, 3);
+('11122281', 'IT000104', 80, 90, null, null, 3),
+('10122257', 'AK011317', 85, 86, null, null, 3),
+('10122727', 'AK011317', 95, 78, null, null, 3);
+
+-- tampilkan hasil
+SELECT * FROM NILAI;
 
 --4--
 SELECT MAX(UAS) FROM NILAI;
@@ -74,7 +85,7 @@ SELECT MIN(UAS) AS UAS_Terendah, MAX(UAS) AS UAS_Tertinggi
 FROM NILAI;
 
 --7--
-SELECT AVG(UTS) AS RataRata_UTS, AVG(UAS) AS RataRata_UAS
+SELECT ROUND(AVG(UTS), 2) AS RataRata_UTS, ROUND(AVG(UAS), 2) AS RataRata_UAS
 FROM NILAI;
 
 --8--
@@ -272,7 +283,6 @@ SELECT MATKUL.KDMK, MATKUL.NAMAMK, COUNT(*) AS JumlahMahasiswa
 FROM MATKUL
 INNER JOIN NILAI ON MATKUL.KDMK = NILAI.KDMK
 GROUP BY MATKUL.KDMK, MATKUL.NAMAMK;
-
 
 --35--
 SELECT KDMK, ROUND(AVG(UTS), 2) AS RerataUTS
